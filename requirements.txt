@@ -1,0 +1,6 @@
+nemoguardrails>=0.24,<0.25
+langchain-core>=1,<2
+langchain-openai>=1,<2
+python-dotenv>=1,<2
+scikit-learn>=1.5,<2
+pytest>=8,<10
